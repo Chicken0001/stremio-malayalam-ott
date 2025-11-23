@@ -1,0 +1,14 @@
+{
+    "name": "stremio-malayalam-ott",
+    "version": "1.0.0",
+    "description": "Stremio addon for Malayalam OTT movies",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "stremio-addon-sdk": "^1.6.9",
+        "axios": "^1.6.2",
+        "dotenv": "^16.3.1"
+    }
+}
